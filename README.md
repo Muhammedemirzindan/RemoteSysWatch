@@ -666,22 +666,6 @@ Investigation katmanı kural tabanlı ve heuristik bir yapıya sahiptir. Sistem 
 
 ---
 
-## Gelecek Geliştirmeler
-
-Projenin ilerleyen sürümlerinde düşünülebilecek bazı geliştirmeler:
-
-- Web tabanlı monitoring dashboard
-- Geçmiş metriklerin veritabanında tutulması
-- Grafik ve zaman serisi analizi
-- Daha gelişmiş anomaly detection
-- Daha fazla sistem ve servis metriği
-- Daha gelişmiş authentication ve secret management
-- Daha büyük cihaz filoları için ölçeklenebilir mimari
-- Daha gelişmiş diagnosis mekanizmaları
-- Monitoring geçmişinin raporlanması
-
----
-
 ## Dokümantasyon
 
 Projeye ait teknik detaylar `docs/` klasöründe tutulmaktadır.
